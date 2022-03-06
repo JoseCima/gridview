@@ -41,5 +41,6 @@ class MainActivity : AppCompatActivity() {
 
             Toast.makeText(this, frutas.get(position).nombre, Toast.LENGTH_SHORT).show()
         }
+
     }
 }
